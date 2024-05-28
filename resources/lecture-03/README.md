@@ -3,6 +3,24 @@
 - [Programming Language Landscape](./Programming%20Language%20Landscape.png)
 - Visualize Programming Syntax e.g. [Scratch](https://scratch.mit.edu/)
 
+## Components of a Programming Language
+- Input(Std I)
+- Processing(Showhow)
+    - Foundational
+        - Variable
+        - Statement/Expression
+        - Operator
+        - Logic
+        - Function
+        - Array, Key-Value Pair, DS
+    - Structural
+        - OOP
+        - Functional
+        - Design Patterns
+        - Design Principales
+        - DSA(Not dependes on Programming Languages) 
+- Output(Std O)
+
 ## When we use function?
 
 If requirements change frequently, we use function. You can see [this code](./app.js) for a quick understanding.
